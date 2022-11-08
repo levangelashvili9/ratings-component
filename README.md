@@ -26,6 +26,10 @@ Component is used to rate something.
 
 It was my first step to learn React, i learnt very basics, for example, working with useState hook.
 
+### Links
+
+- Live Site URL: [Rating component](https://levangelashvili9.github.io/ratings-component/)
+
 ## Author
 
 - Linkedin - [@LevanGelashvili](https://www.linkedin.com/in/levan-gelashvili-669327227/)
